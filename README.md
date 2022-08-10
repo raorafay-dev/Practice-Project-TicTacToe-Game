@@ -1,5 +1,5 @@
 # Practice-Project-TicTacToe-Game
-# URL: https://github.com/ranarafay/Practice-Project-TicTacToe-Game/settings/pages
+# URL: https://ranarafay.github.io/Practice-Project-TicTacToe-Game/
 TicTacToe Game made by HTML, CSS and JavaScript.
 
 ![1](https://user-images.githubusercontent.com/73307548/184011025-00c7bb03-61fa-4cbf-b438-bd2e08ea15bb.png)
